@@ -6,8 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "anything-smp.aternos.me
-",
+    "ip": "anything-smp.aternos.me",
     "port": 37070,
     "version": "",
     "try-creative": false
